@@ -18,3 +18,4 @@ tzdata==2024.1
 psycopg2==2.9.9
 Flask==2.3.3
 Flask-Cors==3.0.10
+gunicorn
